@@ -4,7 +4,7 @@
 
 I am a graduate of the Poznan University of Technology in the field of automation and robotics.
 During my professional career as a control engineer I used a little various programming languages, such as C, C++, Delphi, Java, VisualBasic,
-but it was Python that made me progarm after hours.
+but it was Python that made me program after hours.
 
 Currently I'm doing online Bootcamp <a href="https://www.udemy.com/course/100-days-of-code/"> 100DaysOfCode </a>
 
